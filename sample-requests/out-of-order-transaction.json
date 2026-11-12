@@ -1,0 +1,10 @@
+
+{
+  "transactionId": "TXN-4002",
+  "requestId": "REQ-4002",
+  "accountId": "ACC-400",
+  "transactionType": "DEBIT",
+  "amount": 40.00,
+  "currency": "INR",
+  "sequenceNumber": 2
+}
